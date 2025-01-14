@@ -89,5 +89,3 @@ TEŞEKKÜRLER
 Bu eğitim asistanını kullandığınız için teşekkür ederiz. 
 Herhangi bir soru veya öneriniz için Issues bölümünü kullanabilirsiniz.
 
-===============================================
-Son Güncelleme: 2025-01-14 03:07:20 UTC
